@@ -1,6 +1,0 @@
-streamlit
-numpy
-matplotlib
-pillow
-tflite-runtime
-requests
