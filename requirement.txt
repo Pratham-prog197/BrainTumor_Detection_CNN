@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-opencv-python-headless
-numpy
-matplotlib
-gdown
